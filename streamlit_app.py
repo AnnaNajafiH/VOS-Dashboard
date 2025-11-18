@@ -5,11 +5,6 @@ from PIL import Image
 # --------------------------------------------
 # Page Config
 # --------------------------------------------
-st.set_page_config(
-    page_title="Voice of Skin Insights",
-    layout="wide",
-    page_icon="💧"
-)
 
 # --------------------------------------------
 # Header
